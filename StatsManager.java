@@ -1,17 +1,4 @@
-/**
- * ============================================================================
- *  STATSMANAGER.JAVA
- * ----------------------------------------------------------------------------
- *  Calculates all LISTENING STATISTICS from the playlist:
- *
- *    - total number of plays
- *    - total listening time (hours + minutes)
- *    - favourite artist (artist whose songs have the most plays combined)
- *    - Top-5 most played songs
- *
- *  This class does the MATH, and Main.java simply calls its methods.
- * ============================================================================
- */
+
 import java.util.ArrayList;
 import java.util.HashMap;
 
